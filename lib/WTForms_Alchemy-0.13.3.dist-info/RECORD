@@ -1,0 +1,17 @@
+WTForms_Alchemy-0.13.3.dist-info/DESCRIPTION.rst,sha256=YklURsBfPuVtVHToQptxSamWW5bIqGRwnudBCHE7k2g,83
+WTForms_Alchemy-0.13.3.dist-info/METADATA,sha256=VfIkMtZN7Lb-9ImrGaTk_IIc7WMXn7Hm-2xnusGOAw4,2489
+WTForms_Alchemy-0.13.3.dist-info/RECORD,,
+WTForms_Alchemy-0.13.3.dist-info/WHEEL,sha256=BtVfdXUcEYLcFjOkbIrCFRyXU4qszVPt-E9o3RWkSNw,93
+WTForms_Alchemy-0.13.3.dist-info/metadata.json,sha256=9HB3uPnGid_pUmH_by7yayC11y60dhfzO6l78hfOd0E,1972
+WTForms_Alchemy-0.13.3.dist-info/top_level.txt,sha256=0LCOOFH_SLT4yC2KA4DJmmJzx8Emkn1o5e__gNSA5E4,16
+wtforms_alchemy/__init__.py,sha256=TNvEyMk9zTAMYIyx-aSWIaXIN7LkJeE5eDDFjki-rb4,10530
+wtforms_alchemy/exc.py,sha256=Ct0pEO4qFoAbBpR3MBhjbOsCvsqnXK5xXVu91Uptsvo,871
+wtforms_alchemy/fields.py,sha256=ldZ2yFdcVE0ssVLZnQiFLKO8nl41LuB4Dw87sTJaP3A,4164
+wtforms_alchemy/generator.py,sha256=GVlF4zWnSwuOuj-547wtKwAj5Fy7DmyoSNV9EshYh68,19959
+wtforms_alchemy/utils.py,sha256=UmStSTOMCyZU5VoigrSDRcVDDBMACzNqXImBwwVmb4U,5601
+WTForms_Alchemy-0.13.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+wtforms_alchemy/utils.pyc,,
+wtforms_alchemy/__init__.pyc,,
+wtforms_alchemy/exc.pyc,,
+wtforms_alchemy/fields.pyc,,
+wtforms_alchemy/generator.pyc,,
